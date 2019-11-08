@@ -1,0 +1,23 @@
+{
+  "name": "@sweetalert2/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for the SweetAlert2 JS/TS coding style",
+  "repository": "sweetalert2/eslint-config",
+  "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^6.0.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint-config-standard": "^14.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
