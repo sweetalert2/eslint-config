@@ -22,6 +22,7 @@ module.exports = {
     'complexity': ['error', { max: 10 }],
     'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
     'no-var': ['error'],
+    'prefer-template': 'error',
     'quotes': ['error', 'single', { 'avoidEscape': true, 'allowTemplateLiterals': true }],
   }
 }
