@@ -20,6 +20,7 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 0,
     'comma-dangle': 0,
     'complexity': ['error', { max: 10 }],
+    'import/named': 'error',
     'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
     'no-var': ['error'],
     'prefer-template': 'error',
