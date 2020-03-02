@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/sweetalert2/eslint-config/compare/v1.0.2...v1.0.3) (2020-03-02)
+
+
+### Bug Fixes
+
+* add quote-props rule for consistent quotes around props ([7592659](https://github.com/sweetalert2/eslint-config/commit/759265928fef726add49657909281ad466be723e))
+
 ## [1.0.2](https://github.com/sweetalert2/eslint-config/compare/v1.0.1...v1.0.2) (2019-12-27)
 
 
