@@ -24,6 +24,7 @@ module.exports = {
     'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
     'no-var': ['error'],
     'prefer-template': 'error',
+    'quote-props': ['error', 'consistent'],
     'quotes': ['error', 'single', { 'avoidEscape': true, 'allowTemplateLiterals': true }],
   }
 }
