@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/sweetalert2/eslint-config/compare/v1.0.3...v1.0.4) (2020-03-03)
+
+
+### Bug Fixes
+
+* @typescript-eslint/no-unused-vars: error ([d75dfa0](https://github.com/sweetalert2/eslint-config/commit/d75dfa083bf64ef7e563fe7b95f2278f82863162))
+
 ## [1.0.3](https://github.com/sweetalert2/eslint-config/compare/v1.0.2...v1.0.3) (2020-03-02)
 
 
