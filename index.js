@@ -18,6 +18,7 @@ module.exports = {
     '@typescript-eslint/no-var-requires': 0,
     '@typescript-eslint/no-empty-interface': 0,
     '@typescript-eslint/no-explicit-any': 0,
+    '@typescript-eslint/no-unused-vars': 'error',
     'comma-dangle': 0,
     'complexity': ['error', { max: 10 }],
     'import/named': 'error',
