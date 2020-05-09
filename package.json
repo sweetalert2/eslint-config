@@ -9,14 +9,14 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": "^6.0.0"
+    "eslint": "^7.0.0"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
     "eslint-config-standard": "^14.0.0",
     "eslint-plugin-import": "^2.17.2",
-    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0"
   }
