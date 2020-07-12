@@ -12,6 +12,7 @@ module.exports = {
   ],
   rules: {
     '@typescript-eslint/explicit-function-return-type': 0,
+    '@typescript-eslint/explicit-module-boundary-types': 0,
     '@typescript-eslint/indent': ['error', 2],
     '@typescript-eslint/no-this-alias': 0,
     '@typescript-eslint/no-use-before-define': 0,
