@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/sweetalert2/eslint-config/compare/v1.0.6...v1.0.7) (2020-07-12)
+
+
+### Bug Fixes
+
+* disable @typescript-eslint/explicit-module-boundary-types rule ([512effa](https://github.com/sweetalert2/eslint-config/commit/512effaeb560628b92fa73806e861eaf3f2321a5))
+
 ## [1.0.6](https://github.com/sweetalert2/eslint-config/compare/v1.0.5...v1.0.6) (2020-07-12)
 
 
