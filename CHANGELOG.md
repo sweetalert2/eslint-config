@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/sweetalert2/eslint-config/compare/v1.0.5...v1.0.6) (2020-07-12)
+
+
+### Bug Fixes
+
+* bump [@typescript-eslint](https://github.com/typescript-eslint) ([a6c3807](https://github.com/sweetalert2/eslint-config/commit/a6c3807ad564132fb9abe252dff6f4fb3b8090d3))
+
 ## [1.0.5](https://github.com/sweetalert2/eslint-config/compare/v1.0.4...v1.0.5) (2020-05-09)
 
 
