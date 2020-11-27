@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/sweetalert2/eslint-config/compare/v1.0.7...v1.0.8) (2020-11-27)
+
+
+### Bug Fixes
+
+* bump eslint-config-standard ([c1c1a88](https://github.com/sweetalert2/eslint-config/commit/c1c1a88fbc08e128d84fb1161545df8b5307b5a3))
+
 ## [1.0.7](https://github.com/sweetalert2/eslint-config/compare/v1.0.6...v1.0.7) (2020-07-12)
 
 
