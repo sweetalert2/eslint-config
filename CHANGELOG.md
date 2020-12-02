@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/sweetalert2/eslint-config/compare/v1.0.8...v1.0.9) (2020-12-02)
+
+
+### Bug Fixes
+
+* @typescript-eslint/no-use-before-define -> no-use-before-define ([af7957d](https://github.com/sweetalert2/eslint-config/commit/af7957df810bbae990406d893cb0f26797a3ab51))
+
 ## [1.0.8](https://github.com/sweetalert2/eslint-config/compare/v1.0.7...v1.0.8) (2020-11-27)
 
 
