@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/sweetalert2/eslint-config/compare/v1.0.9...v1.0.10) (2021-10-18)
+
+
+### Bug Fixes
+
+* support eslint 8 ([633afc0](https://github.com/sweetalert2/eslint-config/commit/633afc00dd8cf742de8b6c398ff65b8352eb753c))
+
 ## [1.0.9](https://github.com/sweetalert2/eslint-config/compare/v1.0.8...v1.0.9) (2020-12-02)
 
 
