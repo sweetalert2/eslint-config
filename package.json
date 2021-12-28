@@ -17,6 +17,6 @@
     "eslint-config-standard": "^16.0.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-node": "^11.0.0",
-    "eslint-plugin-promise": "^5.1.0"
+    "eslint-plugin-promise": "^6.0.0"
   }
 }
