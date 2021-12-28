@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/sweetalert2/eslint-config/compare/v1.0.10...v1.0.11) (2021-12-28)
+
+
+### Bug Fixes
+
+* bump eslint-plugin-promise ([aeab61c](https://github.com/sweetalert2/eslint-config/commit/aeab61cd23a80ab85eced4327b679a98e5e90ac3))
+
 ## [1.0.10](https://github.com/sweetalert2/eslint-config/compare/v1.0.9...v1.0.10) (2021-10-18)
 
 
