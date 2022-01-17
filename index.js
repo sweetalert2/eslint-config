@@ -17,6 +17,7 @@ module.exports = {
     '@typescript-eslint/no-var-requires': 0,
     '@typescript-eslint/no-empty-interface': 0,
     '@typescript-eslint/no-explicit-any': 0,
+    '@typescript-eslint/no-extra-semi': 0,
     '@typescript-eslint/no-unused-vars': 'error',
     'brace-style': 0,
     'comma-dangle': 0,
@@ -26,5 +27,7 @@ module.exports = {
     'no-use-before-define': 0,
     'no-var': ['error'],
     'prefer-template': 'error',
+    'quotes': 0,
+    'space-before-function-paren': 0,
   }
 }
