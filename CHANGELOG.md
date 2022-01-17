@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/sweetalert2/eslint-config/compare/v1.0.11...v1.0.12) (2022-01-17)
+
+
+### Bug Fixes
+
+* play well together with prettier ([2b33ba2](https://github.com/sweetalert2/eslint-config/commit/2b33ba26fea47ef241e8c7e66fae3e81feae8af3))
+
 ## [1.0.11](https://github.com/sweetalert2/eslint-config/compare/v1.0.10...v1.0.11) (2021-12-28)
 
 
