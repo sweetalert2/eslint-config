@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/sweetalert2/eslint-config/compare/v1.0.12...v1.0.13) (2022-01-17)
+
+
+### Bug Fixes
+
+* disable more rules which conflict with prettier ([85b04b4](https://github.com/sweetalert2/eslint-config/commit/85b04b4dc4893302abce184a59b0ed9f1667c6d0))
+
 ## [1.0.12](https://github.com/sweetalert2/eslint-config/compare/v1.0.11...v1.0.12) (2022-01-17)
 
 
