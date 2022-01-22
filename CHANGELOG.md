@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/sweetalert2/eslint-config/compare/v1.0.15...v1.0.16) (2022-01-22)
+
+
+### Bug Fixes
+
+* remove some rules ([6bae5d1](https://github.com/sweetalert2/eslint-config/commit/6bae5d15979c7386f0478ef153346a1a9dea01c8))
+
 ## [1.0.15](https://github.com/sweetalert2/eslint-config/compare/v1.0.14...v1.0.15) (2022-01-22)
 
 
