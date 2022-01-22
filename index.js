@@ -11,8 +11,6 @@ module.exports = {
     'prettier',
   ],
   rules: {
-    '@typescript-eslint/no-var-requires': 0,
-    'complexity': ['error', { max: 10 }],
     'no-console': [
       'error',
       { allow: ['warn', 'error', 'info'] },
