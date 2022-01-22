@@ -23,6 +23,7 @@ module.exports = {
     'comma-dangle': 0,
     'complexity': ['error', { max: 10 }],
     'import/named': 'error',
+    'indent': 0,
     'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
     'no-use-before-define': 0,
     'no-var': ['error'],
