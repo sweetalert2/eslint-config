@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/sweetalert2/eslint-config/compare/v1.0.14...v1.0.15) (2022-01-22)
+
+
+### Bug Fixes
+
+* stop using unmaintained eslint-config-standard, use eslint-config-prettier ([46687c4](https://github.com/sweetalert2/eslint-config/commit/46687c43ae29a428e49eef4a378a53290ae8d27a))
+
 ## [1.0.14](https://github.com/sweetalert2/eslint-config/compare/v1.0.13...v1.0.14) (2022-01-22)
 
 
