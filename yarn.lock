@@ -52,6 +52,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@sweetalert2/prettier-config@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@sweetalert2/prettier-config/-/prettier-config-1.0.1.tgz#6992ac7a65768e6bbf013b8d6578194ea55267c1"
+  integrity sha512-8wsVLywp8CSahMYqWQ0Um3ezVKQiPOBBaA9avGODpbnEIfwK+Ow21IyobQ20GvJy8G0LoX2kdwSEuBN6qLAOEw==
+
 "@types/json-schema@^7.0.9":
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz#97edc9037ea0c38585320b28964dde3b39e4660d"

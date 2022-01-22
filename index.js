@@ -4,11 +4,11 @@ module.exports = {
     browser: true,
     node: true,
     commonjs: true,
-    es6: true
+    es6: true,
   },
   extends: [
     'standard',
-    'plugin:@typescript-eslint/recommended'
+    'plugin:@typescript-eslint/recommended',
   ],
   rules: {
     '@typescript-eslint/explicit-function-return-type': 0,
@@ -24,11 +24,14 @@ module.exports = {
     'complexity': ['error', { max: 10 }],
     'import/named': 'error',
     'indent': 0,
-    'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
+    'no-console': [
+      'error',
+      { allow: ['warn', 'error', 'info'] },
+    ],
     'no-use-before-define': 0,
     'no-var': ['error'],
     'prefer-template': 'error',
     'quotes': 0,
     'space-before-function-paren': 0,
-  }
+  },
 }
