@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/sweetalert2/eslint-config/compare/v1.0.16...v1.0.17) (2022-01-22)
+
+
+### Bug Fixes
+
+* @typescript-eslint/no-var-requires rule, disable complexity rule ([1c39270](https://github.com/sweetalert2/eslint-config/commit/1c39270026b7b43b22e3e1d2d5dea164d4e67604))
+
 ## [1.0.16](https://github.com/sweetalert2/eslint-config/compare/v1.0.15...v1.0.16) (2022-01-22)
 
 

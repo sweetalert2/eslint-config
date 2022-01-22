@@ -1,6 +1,6 @@
 {
   "name": "@sweetalert2/eslint-config",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "ESLint shareable config for the SweetAlert2 JS/TS coding style",
   "repository": "sweetalert2/eslint-config",
   "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
