@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/sweetalert2/eslint-config/compare/v1.0.13...v1.0.14) (2022-01-22)
+
+
+### Bug Fixes
+
+* disable 'intent' rule ([9bf6842](https://github.com/sweetalert2/eslint-config/commit/9bf684217638c6f070ce859103a3213d6a81ac37))
+
 ## [1.0.13](https://github.com/sweetalert2/eslint-config/compare/v1.0.12...v1.0.13) (2022-01-17)
 
 
