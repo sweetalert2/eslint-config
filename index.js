@@ -7,23 +7,15 @@ module.exports = {
     es6: true,
   },
   extends: [
-    'standard',
     'plugin:@typescript-eslint/recommended',
+    'prettier',
   ],
   rules: {
-    '@typescript-eslint/explicit-function-return-type': 0,
-    '@typescript-eslint/explicit-module-boundary-types': 0,
     '@typescript-eslint/no-this-alias': 0,
     '@typescript-eslint/no-var-requires': 0,
     '@typescript-eslint/no-empty-interface': 0,
     '@typescript-eslint/no-explicit-any': 0,
-    '@typescript-eslint/no-extra-semi': 0,
-    '@typescript-eslint/no-unused-vars': 'error',
-    'brace-style': 0,
-    'comma-dangle': 0,
     'complexity': ['error', { max: 10 }],
-    'import/named': 'error',
-    'indent': 0,
     'no-console': [
       'error',
       { allow: ['warn', 'error', 'info'] },
@@ -31,7 +23,5 @@ module.exports = {
     'no-use-before-define': 0,
     'no-var': ['error'],
     'prefer-template': 'error',
-    'quotes': 0,
-    'space-before-function-paren': 0,
   },
 }
