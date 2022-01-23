@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/sweetalert2/eslint-config/compare/v1.0.17...v1.0.18) (2022-01-23)
+
+
+### Bug Fixes
+
+* add '@typescript-eslint/consistent-type-imports' rule ([90f3d47](https://github.com/sweetalert2/eslint-config/commit/90f3d4721335985fbbbbf619e1478aa143ca5041))
+
 ## [1.0.17](https://github.com/sweetalert2/eslint-config/compare/v1.0.16...v1.0.17) (2022-01-22)
 
 
