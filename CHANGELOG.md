@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/sweetalert2/eslint-config/compare/v1.0.18...v1.0.19) (2022-01-23)
+
+
+### Bug Fixes
+
+* remove env ([08ea0f0](https://github.com/sweetalert2/eslint-config/commit/08ea0f0ecf23788284d9761b27216d00513a54b9))
+
 ## [1.0.18](https://github.com/sweetalert2/eslint-config/compare/v1.0.17...v1.0.18) (2022-01-23)
 
 
