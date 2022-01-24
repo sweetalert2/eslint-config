@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/sweetalert2/eslint-config/compare/v1.0.19...v1.0.20) (2022-01-24)
+
+
+### Bug Fixes
+
+* add sort-imports rule ([722d70e](https://github.com/sweetalert2/eslint-config/commit/722d70ef7f0613117eddddbebb5b329efebcb73c))
+
 ## [1.0.19](https://github.com/sweetalert2/eslint-config/compare/v1.0.18...v1.0.19) (2022-01-23)
 
 
