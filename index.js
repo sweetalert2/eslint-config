@@ -14,5 +14,9 @@ module.exports = {
       { allow: ['warn', 'error', 'info'] },
     ],
     'prefer-template': 'error',
+    'sort-imports': [
+      'error',
+      { ignoreDeclarationSort: true },
+    ],
   },
 }
