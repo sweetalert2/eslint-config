@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/sweetalert2/eslint-config/compare/v1.0.20...v1.0.21) (2022-10-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v8.5.0 ([#18](https://github.com/sweetalert2/eslint-config/issues/18)) ([e316a3a](https://github.com/sweetalert2/eslint-config/commit/e316a3a726cdf1979ad2e5cab91c61475833a46c))
+
 ## [1.0.20](https://github.com/sweetalert2/eslint-config/compare/v1.0.19...v1.0.20) (2022-01-24)
 
 
