@@ -3,7 +3,7 @@
   "version": "1.0.21",
   "description": "ESLint shareable config for the SweetAlert2 JS/TS coding style",
   "repository": "sweetalert2/eslint-config",
-  "author": "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)",
+  "author": "Limon Monte (https://limonte.github.io)",
   "license": "MIT",
   "files": [
     "index.js"
