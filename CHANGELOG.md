@@ -1,3 +1,10 @@
+## [1.0.22](https://github.com/sweetalert2/eslint-config/compare/v1.0.21...v1.0.22) (2023-03-23)
+
+
+### Bug Fixes
+
+* TS 5 ([898dfbf](https://github.com/sweetalert2/eslint-config/commit/898dfbf3209cc798dae60e430963a86c975a18fc))
+
 ## [1.0.21](https://github.com/sweetalert2/eslint-config/compare/v1.0.20...v1.0.21) (2022-10-18)
 
 
