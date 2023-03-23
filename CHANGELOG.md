@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/sweetalert2/eslint-config/compare/v1.1.3...v1.1.4) (2023-03-23)
+
+
+### Bug Fixes
+
+* trigger release ([8329738](https://github.com/sweetalert2/eslint-config/commit/8329738fcc47f0f04f5dd6f837d7d17e16b9114e))
+
 ## [1.0.22](https://github.com/sweetalert2/eslint-config/compare/v1.0.21...v1.0.22) (2023-03-23)
 
 
