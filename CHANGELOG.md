@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/sweetalert2/eslint-config/compare/v1.1.4...v1.1.5) (2023-04-26)
+
+
+### Bug Fixes
+
+* add @typescript-eslint/utils ([05c3891](https://github.com/sweetalert2/eslint-config/commit/05c3891ec6e28a958b17fe25c0849a1e07a7435a))
+
 ## [1.1.4](https://github.com/sweetalert2/eslint-config/compare/v1.1.3...v1.1.4) (2023-03-23)
 
 
