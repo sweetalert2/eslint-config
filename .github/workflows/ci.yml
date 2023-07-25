@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Install npm dependencies
-        run: npm install
+        run: yarn install
 
       - name: Run automated release process with semantic-release
         if: github.event_name == 'push'
