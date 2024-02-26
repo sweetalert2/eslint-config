@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/sweetalert2/eslint-config/compare/v1.1.8...v1.1.9) (2024-02-26)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v7 ([#25](https://github.com/sweetalert2/eslint-config/issues/25)) ([9599a13](https://github.com/sweetalert2/eslint-config/commit/9599a136c06f39599cf4649f2e94152b0779028c))
+
 ## [1.1.8](https://github.com/sweetalert2/eslint-config/compare/v1.1.7...v1.1.8) (2023-08-20)
 
 
