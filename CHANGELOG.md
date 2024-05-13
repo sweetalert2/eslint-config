@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/sweetalert2/eslint-config/compare/v1.1.10...v1.1.11) (2024-05-13)
+
+
+### Bug Fixes
+
+* go back to v8 ([a930020](https://github.com/sweetalert2/eslint-config/commit/a930020cd49ac4ca20f7f21681bc023a0d60898d))
+
 ## [1.1.10](https://github.com/sweetalert2/eslint-config/compare/v1.1.9...v1.1.10) (2024-05-13)
 
 
