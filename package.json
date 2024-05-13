@@ -1,6 +1,6 @@
 {
   "name": "@sweetalert2/eslint-config",
-  "version": "1.1.10",
+  "version": "1.1.9",
   "description": "ESLint shareable config for the SweetAlert2 JS/TS coding style",
   "repository": "sweetalert2/eslint-config",
   "author": "Limon Monte (https://limonte.github.io)",
@@ -9,15 +9,14 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": "^9.0.0"
+    "eslint": "^8.0.0"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.0.0-alpha.10",
-    "@typescript-eslint/parser": "^8.0.0-alpha.10",
+    "typescript-eslint": "^7.0.0",
     "eslint-config-prettier": "^9.0.0"
   },
   "devDependencies": {
-    "eslint": "^9.0.0",
+    "eslint": "^8.0.0",
     "typescript": "^5.0.0"
   },
   "prettier": {
