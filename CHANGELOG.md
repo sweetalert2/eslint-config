@@ -1,3 +1,10 @@
+## [1.1.10](https://github.com/sweetalert2/eslint-config/compare/v1.1.9...v1.1.10) (2024-05-13)
+
+
+### Bug Fixes
+
+* eslint 9 ([25f80bb](https://github.com/sweetalert2/eslint-config/commit/25f80bb186b4408a4c1c34de43863edde764fb8e))
+
 ## [1.1.9](https://github.com/sweetalert2/eslint-config/compare/v1.1.8...v1.1.9) (2024-02-26)
 
 
