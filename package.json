@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "eslint-config-prettier": "^9.0.0",
-    "typescript-eslint": "^8.0.0"
+    "typescript-eslint": "^8.0.0",
+    "globals": "^15.9.0"
   },
   "devDependencies": {
     "eslint": "^9.0.0",
-    "globals": "^15.9.0",
     "typescript": "^5.0.0"
   },
   "prettier": {
