@@ -1,3 +1,10 @@
+## [1.1.14](https://github.com/sweetalert2/eslint-config/compare/v1.1.13...v1.1.14) (2024-08-01)
+
+
+### Bug Fixes
+
+* add entry point ([c370c92](https://github.com/sweetalert2/eslint-config/commit/c370c923497f0bd2ab653041254d4292ccd34902))
+
 ## [1.1.13](https://github.com/sweetalert2/eslint-config/compare/v1.1.12...v1.1.13) (2024-08-01)
 
 
