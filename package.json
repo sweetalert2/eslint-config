@@ -8,6 +8,7 @@
   "files": [
     "index.mjs"
   ],
+  "main": "index.mjs",
   "peerDependencies": {
     "eslint": "^9.0.0"
   },

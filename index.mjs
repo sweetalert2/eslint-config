@@ -7,7 +7,6 @@ export default tseslint.config(
   ...tseslint.configs.recommended,
   eslintPluginPrettierRecommended,
   {
-    files: ['**/*.js', '**/*.ts'],
     rules: {
       '@typescript-eslint/consistent-type-imports': [
         'error',
