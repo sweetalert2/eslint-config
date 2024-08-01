@@ -1,3 +1,10 @@
+## [1.1.13](https://github.com/sweetalert2/eslint-config/compare/v1.1.12...v1.1.13) (2024-08-01)
+
+
+### Bug Fixes
+
+* use es module for config format ([7c4c074](https://github.com/sweetalert2/eslint-config/commit/7c4c0749b48bc6c1f36eae087281043e23862d32))
+
 ## [1.1.12](https://github.com/sweetalert2/eslint-config/compare/v1.1.11...v1.1.12) (2024-08-01)
 
 
