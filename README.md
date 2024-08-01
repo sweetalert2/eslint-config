@@ -22,10 +22,13 @@ $ yarn add --dev @sweetalert2/eslint-config
 Once the `@sweetalert2/eslint-config` package is installed, you can use it by specifying `@sweetalert2/eslint-config` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
 
 ```js
-{
-  "extends": "@sweetalert2/eslint-config",
-  "rules": {
-    // Additional, per-project rules...
-  }
-}
+import sweetAlert2EslintConfig from '@sweetalert2/eslint-config'
+
+// eslint.config.js
+export default [
+  ...sweetAlert2EslintConfig,
+  {
+    // Additional, project-specific rules...
+  },
+]
 ```
