@@ -6,7 +6,7 @@
   "author": "Limon Monte (https://limonte.github.io)",
   "license": "MIT",
   "files": [
-    "index.js"
+    "index.mjs"
   ],
   "peerDependencies": {
     "eslint": "^9.0.0"
