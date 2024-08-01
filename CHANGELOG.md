@@ -1,3 +1,10 @@
+## [1.1.12](https://github.com/sweetalert2/eslint-config/compare/v1.1.11...v1.1.12) (2024-08-01)
+
+
+### Bug Fixes
+
+* eslint 9 + typescript-eslint 8 ([9fce14d](https://github.com/sweetalert2/eslint-config/commit/9fce14d0dd4c386834b91e065ae62ef366132596))
+
 ## [1.1.11](https://github.com/sweetalert2/eslint-config/compare/v1.1.10...v1.1.11) (2024-05-13)
 
 
