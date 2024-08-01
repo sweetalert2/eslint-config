@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/sweetalert2/eslint-config/compare/v1.1.14...v1.1.15) (2024-08-01)
+
+
+### Bug Fixes
+
+* use browser globals ([1b453ad](https://github.com/sweetalert2/eslint-config/commit/1b453ad9fdc3f6d7d51d714310cd8fab180035a8))
+
 ## [1.1.14](https://github.com/sweetalert2/eslint-config/compare/v1.1.13...v1.1.14) (2024-08-01)
 
 
