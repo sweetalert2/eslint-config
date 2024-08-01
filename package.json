@@ -9,14 +9,14 @@
     "index.js"
   ],
   "peerDependencies": {
-    "eslint": "^8.0.0"
+    "eslint": "^9.0.0"
   },
   "dependencies": {
-    "typescript-eslint": "^7.0.0",
-    "eslint-config-prettier": "^9.0.0"
+    "eslint-config-prettier": "^9.0.0",
+    "typescript-eslint": "^8.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^9.0.0",
     "typescript": "^5.0.0"
   },
   "prettier": {
