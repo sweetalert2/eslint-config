@@ -1,3 +1,10 @@
+## [1.1.16](https://github.com/sweetalert2/eslint-config/compare/v1.1.15...v1.1.16) (2024-08-01)
+
+
+### Bug Fixes
+
+* move globals devDeps -> deps ([1c7af19](https://github.com/sweetalert2/eslint-config/commit/1c7af196aa9e8d480131f56781ef94a30a3ba8ea))
+
 ## [1.1.15](https://github.com/sweetalert2/eslint-config/compare/v1.1.14...v1.1.15) (2024-08-01)
 
 
