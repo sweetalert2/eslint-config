@@ -29,8 +29,6 @@ export default tseslint.config(
           allowTernary: true,
         },
       ],
-      '@typescript-eslint/dot-notation': ['error', { allowKeywords: true }],
-      '@typescript-eslint/no-empty-function': ['error', { allow: ['arrowFunctions'] }],
       // TODO END
     },
     languageOptions: {
