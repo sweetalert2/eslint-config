@@ -21,6 +21,17 @@ export default tseslint.config(
         'error',
         { ignoreDeclarationSort: true },
       ],
+      // TODO remove after https://github.com/eslint/eslint/issues/19134 is fixed
+      '@typescript-eslint/no-unused-expressions': [
+        'error',
+        {
+          allowShortCircuit: true,
+          allowTernary: true,
+        },
+      ],
+      '@typescript-eslint/dot-notation': ['error', { allowKeywords: true }],
+      '@typescript-eslint/no-empty-function': ['error', { allow: ['arrowFunctions'] }],
+      // TODO END
     },
     languageOptions: {
       globals: {
