@@ -1,3 +1,10 @@
+## [1.1.19](https://github.com/sweetalert2/eslint-config/compare/v1.1.18...v1.1.19) (2024-11-16)
+
+
+### Bug Fixes
+
+* bar ([720af4b](https://github.com/sweetalert2/eslint-config/commit/720af4b4f6b19306bc7d95f4b4080eb9e1b5ca0f))
+
 ## [1.1.18](https://github.com/sweetalert2/eslint-config/compare/v1.1.17...v1.1.18) (2024-11-16)
 
 
