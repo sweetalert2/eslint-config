@@ -1,3 +1,10 @@
+## [1.1.18](https://github.com/sweetalert2/eslint-config/compare/v1.1.17...v1.1.18) (2024-11-16)
+
+
+### Bug Fixes
+
+* foo ([d368c19](https://github.com/sweetalert2/eslint-config/commit/d368c19d89e05659509fb0c4e1bd30b25451e7a4))
+
 ## [1.1.17](https://github.com/sweetalert2/eslint-config/compare/v1.1.16...v1.1.17) (2024-08-01)
 
 
