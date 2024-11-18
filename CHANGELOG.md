@@ -1,3 +1,10 @@
+## [1.1.20](https://github.com/sweetalert2/eslint-config/compare/v1.1.19...v1.1.20) (2024-11-18)
+
+
+### Bug Fixes
+
+* rm workaround for https://github.com/eslint/eslint/issues/19134 ([736d6d2](https://github.com/sweetalert2/eslint-config/commit/736d6d231108d9aad9e8d48f35113b0f70fff637))
+
 ## [1.1.19](https://github.com/sweetalert2/eslint-config/compare/v1.1.18...v1.1.19) (2024-11-16)
 
 
