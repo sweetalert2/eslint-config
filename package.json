@@ -21,9 +21,6 @@
     "eslint": "^9.0.0",
     "typescript": "~5.7.0"
   },
-  "scripts": {
-    "postinstall": "printf \"\n\n %s \n\n\" '✨ 🚀 ✨ Get 20% discount on Hostiger Web Hosting: https://hostinger.com/?REFERRALCODE=BKZHOSTINDAB ✨ 🚀 ✨'"
-  },
   "prettier": {
     "printWidth": 60,
     "semi": false,
