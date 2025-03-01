@@ -14,12 +14,15 @@
   },
   "dependencies": {
     "eslint-config-prettier": "^10.0.0",
-    "globals": "^15.9.0",
+    "globals": "^16.0.0",
     "typescript-eslint": "^8.0.0"
   },
   "devDependencies": {
     "eslint": "^9.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "~5.7.0"
+  },
+  "scripts": {
+    "postinstall": "echo ''; echo ''; printf '%s' ' ✨ 🚀 ✨ Get 20% discount on Hostiger Web Hosting: https://hostinger.com/?REFERRALCODE=BKZHOSTINDAB ✨ 🚀 ✨'; echo ''; echo '';"
   },
   "prettier": {
     "printWidth": 60,
