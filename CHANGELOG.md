@@ -1,3 +1,10 @@
+## [1.1.24](https://github.com/sweetalert2/eslint-config/compare/v1.1.23...v1.1.24) (2025-03-01)
+
+
+### Bug Fixes
+
+* test ([1eecd34](https://github.com/sweetalert2/eslint-config/commit/1eecd3438de84596505ad8d92e7085d3530c2094))
+
 ## [1.1.23](https://github.com/sweetalert2/eslint-config/compare/v1.1.22...v1.1.23) (2025-03-01)
 
 
