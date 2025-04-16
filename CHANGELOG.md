@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/sweetalert2/eslint-config/compare/v1.1.24...v1.2.0) (2025-04-16)
+
+
+### Features
+
+* add eslintFormat helper ([fe2f8fb](https://github.com/sweetalert2/eslint-config/commit/fe2f8fb56f2fce5d683def13e446fc749d27629d))
+
 ## [1.1.24](https://github.com/sweetalert2/eslint-config/compare/v1.1.23...v1.1.24) (2025-03-01)
 
 
