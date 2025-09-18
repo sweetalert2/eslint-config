@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/sweetalert2/eslint-config/compare/v1.2.0...v1.2.1) (2025-09-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies (non-major) ([#34](https://github.com/sweetalert2/eslint-config/issues/34)) ([835ef42](https://github.com/sweetalert2/eslint-config/commit/835ef42d11627871f6f3a964eb5c83173a81af20))
+
 # [1.2.0](https://github.com/sweetalert2/eslint-config/compare/v1.1.24...v1.2.0) (2025-04-16)
 
 
