@@ -11,12 +11,6 @@
 $ npm install --save-dev @sweetalert2/eslint-config
 ```
 
-or
-
-```
-$ yarn add --dev @sweetalert2/eslint-config
-```
-
 ## Usage
 
 Once the `@sweetalert2/eslint-config` package is installed, you can use it by specifying `@sweetalert2/eslint-config` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
