@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/sweetalert2/eslint-config/compare/v1.2.1...v1.2.2) (2025-12-13)
+
+
+### Bug Fixes
+
+* set up releasing with trusted publishing ([eab5272](https://github.com/sweetalert2/eslint-config/commit/eab5272aec7a6e413bb7f2f17f7662abb1fdbea7))
+
 ## [1.2.1](https://github.com/sweetalert2/eslint-config/compare/v1.2.0...v1.2.1) (2025-09-18)
 
 
