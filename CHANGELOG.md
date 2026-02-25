@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/sweetalert2/eslint-config/compare/v1.3.2...v1.3.3) (2026-02-25)
+
+
+### Bug Fixes
+
+* add @eslint/js ([a331afe](https://github.com/sweetalert2/eslint-config/commit/a331afed125200d90645992986cdab494c08d256))
+
 ## [1.3.2](https://github.com/sweetalert2/eslint-config/compare/v1.3.1...v1.3.2) (2026-02-25)
 
 
