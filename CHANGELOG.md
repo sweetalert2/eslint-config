@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/sweetalert2/eslint-config/compare/v1.3.1...v1.3.2) (2026-02-25)
+
+
+### Bug Fixes
+
+* bump all deps ([de5f318](https://github.com/sweetalert2/eslint-config/commit/de5f318c9ba582f2dc417a7a4859b5c1c1ef7f27))
+
 ## [1.3.1](https://github.com/sweetalert2/eslint-config/compare/v1.3.0...v1.3.1) (2026-02-25)
 
 
