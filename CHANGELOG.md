@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/sweetalert2/eslint-config/compare/v1.3.0...v1.3.1) (2026-02-25)
+
+
+### Bug Fixes
+
+* don't use eslint-config-prettier ([0438045](https://github.com/sweetalert2/eslint-config/commit/043804575a7dd543d263f71367ada90473a7897d))
+
 # [1.3.0](https://github.com/sweetalert2/eslint-config/compare/v1.2.2...v1.3.0) (2026-02-25)
 
 
