@@ -12,15 +12,9 @@ export default [
         'error',
         { prefer: 'type-imports' },
       ],
-      'no-console': [
-        'error',
-        { allow: ['warn', 'error', 'info'] },
-      ],
+      'no-console': ['error', { allow: ['warn', 'error', 'info'] }],
       'prefer-template': 'error',
-      'sort-imports': [
-        'error',
-        { ignoreDeclarationSort: true },
-      ],
+      'sort-imports': ['error', { ignoreDeclarationSort: true }],
     },
     languageOptions: {
       globals: {

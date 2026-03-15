@@ -11,9 +11,6 @@ module.exports = {
     '@semantic-release/npm',
     '@semantic-release/git',
   ],
-  publish: [
-    '@semantic-release/npm',
-    '@semantic-release/github',
-  ],
+  publish: ['@semantic-release/npm', '@semantic-release/github'],
   success: ['@semantic-release/github'],
 }
