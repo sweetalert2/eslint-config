@@ -1,28 +1,28 @@
-# ESLint shareable config for the [SweetAlert2](https://github.com/sweetalert2/sweetalert2) JS/TS coding style
+# Oxlint shareable config for the [SweetAlert2](https://github.com/sweetalert2/sweetalert2) JS/TS coding style
 
 [![npm version](https://img.shields.io/npm/v/@sweetalert2/eslint-config.svg)](https://www.npmjs.com/package/@sweetalert2/eslint-config)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/sweetalert2/eslint-config/blob/main/CHANGELOG.md)
 
-> ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [SweetAlert2](https://github.com/sweetalert2/sweetalert2) JS/TS coding style
+> [Oxlint](https://oxc.rs/docs/guide/usage/linter/) shareable config for the [SweetAlert2](https://github.com/sweetalert2/sweetalert2) JS/TS coding style
 
 ## Installation
 
 ```
-$ npm install --save-dev @sweetalert2/eslint-config
+$ npm install --save-dev @sweetalert2/eslint-config oxlint
 ```
 
 ## Usage
 
-Once the `@sweetalert2/eslint-config` package is installed, you can use it by specifying `@sweetalert2/eslint-config` in the [`extends`](http://eslint.org/docs/user-guide/configuring#extending-configuration-files) section of your [ESLint configuration](http://eslint.org/docs/user-guide/configuring).
+Once the `@sweetalert2/eslint-config` package is installed, you can use it by specifying `@sweetalert2/eslint-config` in the [`extends`](https://oxc.rs/docs/guide/usage/linter/config-file-reference.html) section of your [oxlint configuration](https://oxc.rs/docs/guide/usage/linter/config-file-reference.html).
 
-```js
-import sweetAlert2EslintConfig from '@sweetalert2/eslint-config'
+```json
+{
+  "extends": ["@sweetalert2/eslint-config"]
+}
+```
 
-// eslint.config.js
-export default [
-  ...sweetAlert2EslintConfig,
-  {
-    // Additional, project-specific rules...
-  },
-]
+Then run:
+
+```
+npx oxlint
 ```
